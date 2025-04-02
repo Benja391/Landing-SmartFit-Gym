@@ -1,0 +1,90 @@
+#Inscribirse, #beneficios,footer{
+    background-color: #adff19;
+    list-style: none;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#productos{
+    background-color: #adff19;
+}
+
+.text-custom {
+    color: #adff19;
+}
+
+#burger{
+    color: black;
+}
+
+#texto-inscribirse{
+    font-size: 1.5rem;
+}
+
+.bi-instagram{
+    color: black;
+}
+
+.bi-instagram:hover {
+    color: white;
+}
+
+.bi-facebook{
+    color: black;
+}
+
+.bi-facebook:hover{
+    color: white;
+}
+
+.bi-twitter{
+    color: black;
+}
+
+.bi-twitter:hover{
+    color: white;
+}
+
+.foto-propia {
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+/* Estilos para pantallas de tablet */
+@media (max-width: 768px) {
+    #Nosotros {
+        display: none;
+    }
+    #Inscribirse, #beneficios,footer{
+        background-color: #76b500;
+        list-style: none;
+    }
+    #productos{
+        background-color: #76b500;
+    }  
+}
+
+
+
+/* Estilos para pantallas de celular */
+@media (max-width: 480px) {
+    #Nosotros {
+        display: none;
+    }
+    #Inscribirse, #beneficios,footer{
+        background-color: #507a00;
+        list-style: none;
+    
+    }
+    #productos{
+        background-color: #507a00;
+    }
+}
+
+
