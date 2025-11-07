@@ -14,6 +14,7 @@ Este proyecto es una landing page estática que simula el sitio web de un gimnas
 
 - **HTML5**: estructura semántica
 - **CSS3**: estilos personalizados y responsivos
+- **Boostrap**: estilos generales
 - **JavaScript**: interacciones básicas
 - **Diseño responsivo**: adaptable a móviles y escritorio
 
