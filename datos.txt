@@ -1,9 +1,0 @@
-CARRERA: Diseño y Programación Web
-MATERIA: Interacción con Dispositivos Móviles
-TRABAJO PRÁCTICO: Examen Parcial 2
-PROFESOR: D'Addezio Alejandro
-ALUMNO/S: Bosch, Benjamin
-CUATRIMESTRE: 2do Cuatrimestre
-COMISIÓN: DWT2AP
-TURNO: Tarde
-FECHA DE ENTREGA: 24/11/2023
